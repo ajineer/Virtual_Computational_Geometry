@@ -1,4 +1,4 @@
-# Virtual_Computational_Geometry
+# Virtual Computational Geometry
 A revolutionary new approach to software engineering that fuses computational theory, logic, mathematics, and spatial geometry into an immersive, programmable architecture.
 
 # Virtual Computational Geometry (VCG)
